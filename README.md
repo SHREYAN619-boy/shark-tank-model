@@ -384,9 +384,9 @@ The application is intended for learning and experimentation and should not be u
 
 ## License
 
-This project is distributed under the **MIT License**, permitting use, modification, and distribution subject to the license conditions.
+This project is licensed under the **MIT License**, allowing users to freely use, modify, distribute, and contribute to the software, provided that the original copyright notice and license terms are preserved.
 
-See the `LICENSE` file for more information.
+For more information, please refer to the [LICENSE](LICENSE) file in this repository.
 
 ---
 
