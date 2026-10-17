@@ -132,7 +132,11 @@ Users can register their business by providing the startup name, industry, busin
 ![Startup Registration](outputs/Startup.png)
 
 ### 3. Pitch Preparation
-The pitch preparation interface allows users to create, edit, and save their business presentations.
+The pitch preparation interface allows users to create, edit, and save their business presentations. Users can manually write a pitch outlining their startup's business idea, target market, revenue model, and investment requirements.
+
+For users who do not have a properly structured pitch or are unsure how to present their business idea, the application provides a Generate with AI feature. This automatically creates a structured startup pitch based on the business information provided during registration.
+
+Users can then review, customize, and save the generated pitch before presenting it to their selected investors.
 
 ![Pitch Preparation](outputs/Pitch.png)
 
