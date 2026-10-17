@@ -2,8 +2,6 @@
 
 ## Introduction
 
-## Introduction
-
 Thank you for your interest in contributing to the **Shark Tank – Startup Investment**!!!
 
 We developed this project to explore how Python programming, financial analysis, and interactive software development can be applied to entrepreneurship and startup investment simulations.
