@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Thank you for your interest in contributing to the Shark Tank – Startup Investment!!!
+## Introduction
+
+Thank you for your interest in contributing to the **Shark Tank – Startup Investment**!!!
 
 We developed this project to explore how Python programming, financial analysis, and interactive software development can be applied to entrepreneurship and startup investment simulations.
 
@@ -10,7 +12,7 @@ We welcome contributions from developers, students, entrepreneurs, and programmi
 
 Whether you're fixing bugs, enhancing the user interface, improving financial calculations, or suggesting new features, your contributions are appreciated and taken into consideration.
 
-All contributions are subject to the project's MIT License and Code of Conduct, available in the repository.
+All contributions are subject to the project's [**MIT License**](LICENSE) and [**Code of Conduct**](CODE_OF_CONDUCT.md), available in this repository.
 
 ## Areas for Contribution
 
