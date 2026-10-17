@@ -63,7 +63,7 @@ Suggestions for improving financial simulations, investor interactions, the inte
 
 ## Code of Conduct
 
-All contributors are expected to follow the project's `CODE_OF_CONDUCT.md` and maintain a respectful, inclusive, and collaborative environment.
+All contributors are expected to follow the project's [**Code of Conduct**](CODE_OF_CONDUCT.md) and maintain a respectful, inclusive, and collaborative environment.
 
 ## Contact
 
